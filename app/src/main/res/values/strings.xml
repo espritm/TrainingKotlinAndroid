@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TraningAndroidApp</string>
+    <string name="show_snackbar">Afficher la snack bar</string>
+    <string name="share_intent_title">Partager</string>
+</resources>
